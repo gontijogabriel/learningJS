@@ -1,0 +1,144 @@
+{
+    "produtos": [
+        {
+            "nome": "Smartphone Galaxy S22 Ultra",
+            "categoria": "Smartphones",
+            "preco": 6999.99,
+            "imagem": "galaxy_s22_ultra.jpg",
+            "descricao": "O mais novo lançamento da Samsung com tela de alta resolução e câmera avançada."
+        },
+        {
+            "nome": "Notebook Dell XPS 15",
+            "categoria": "Notebooks",
+            "preco": 8999.00,
+            "imagem": "dell_xps_15.jpg",
+            "descricao": "Notebook premium com processador Intel Core i7, tela 4K e design fino e leve."
+        },
+        {
+            "nome": "Smart TV LG OLED C1 55 polegadas",
+            "categoria": "TVs",
+            "preco": 5499.90,
+            "imagem": "lg_oled_c1_55.jpg",
+            "descricao": "TV OLED com resolução 4K, suporte a HDR e sistema operacional webOS."
+        },
+        {
+            "nome": "Console PlayStation 5",
+            "categoria": "Consoles de Videogame",
+            "preco": 4499.00,
+            "imagem": "ps5.jpg",
+            "descricao": "Novo console da Sony com suporte a gráficos 4K, SSD ultrarrápido e controle DualSense."
+        },
+        {
+            "nome": "Monitor Gamer ASUS ROG Swift PG259QN",
+            "categoria": "Monitores",
+            "preco": 3499.99,
+            "imagem": "asus_rog_swift_pg259qn.jpg",
+            "descricao": "Monitor gamer de 24.5 polegadas com taxa de atualização de 360Hz e tempo de resposta de 1ms."
+        },
+        {
+            "nome": "Câmera Mirrorless Sony Alpha a7 IV",
+            "categoria": "Câmeras",
+            "preco": 8999.00,
+            "imagem": "sony_alpha_a7_iv.jpg",
+            "descricao": "Câmera mirrorless full-frame com sensor CMOS de 33MP, vídeo 4K e estabilização de imagem."
+        },
+        {
+            "nome": "Fone de Ouvido Apple AirPods Pro",
+            "categoria": "Acessórios de Áudio",
+            "preco": 1899.00,
+            "imagem": "apple_airpods_pro.jpg",
+            "descricao": "Fones de ouvido com cancelamento ativo de ruído, áudio espacial e resistência à água e suor."
+        },
+        {
+            "nome": "Impressora Multifuncional HP LaserJet Pro M428fdn",
+            "categoria": "Impressoras",
+            "preco": 2999.00,
+            "imagem": "hp_laserjet_pro_m428fdn.jpg",
+            "descricao": "Impressora laser monocromática com impressão frente e verso, scanner, cópia e fax."
+        },
+        {
+            "nome": "Roteador Wi-Fi TP-Link Archer AX6000",
+            "categoria": "Redes",
+            "preco": 1499.90,
+            "imagem": "tp_link_archer_ax6000.jpg",
+            "descricao": "Roteador Wi-Fi 6 com velocidades de até 6000Mbps, tecnologia beamforming e múltiplas conexões simultâneas."
+        },
+        {
+            "nome": "Teclado Mecânico Corsair K95 RGB Platinum XT",
+            "categoria": "Periféricos de Computador",
+            "preco": 1099.00,
+            "imagem": "corsair_k95_rgb_platinum_xt.jpg",
+            "descricao": "Teclado mecânico premium com switches Cherry MX, iluminação RGB dinâmica e descanso de pulso acolchoado."
+        },
+        {
+            "nome": "Smartwatch Garmin Fenix 7X Sapphire",
+            "categoria": "Wearables",
+            "preco": 6499.00,
+            "imagem": "garmin_fenix_7x_sapphire.jpg",
+            "descricao": "Smartwatch com GPS, monitoramento de saúde avançado e tela de safira resistente a arranhões."
+        },
+        {
+            "nome": "Drone DJI Air 2S",
+            "categoria": "Drones",
+            "preco": 5999.00,
+            "imagem": "dji_air_2s.jpg",
+            "descricao": "Drone com câmera de 1 polegada CMOS, vídeo 5.4K, detecção de obstáculos em 4 direções e tempo de voo de até 31 minutos."
+        },
+        {
+            "nome": "Caixa de Som Bluetooth JBL Xtreme 3",
+            "categoria": "Áudio Portátil",
+            "preco": 1499.99,
+            "imagem": "jbl_xtreme_3.jpg",
+            "descricao": "Caixa de som portátil com graves profundos, resistência à água e bateria de até 15 horas de reprodução."
+        },
+        {
+            "nome": "Mouse Gamer Logitech G Pro X Superlight",
+            "categoria": "Periféricos de Computador",
+            "preco": 899.00,
+            "imagem": "logitech_g_pro_x_superlight.jpg",
+            "descricao": "Mouse gamer ultraleve com sensor HERO 25K, até 70 horas de vida útil da bateria e design ergonômico."
+        },
+        {
+            "nome": "Cadeira Gamer DXRacer Racing Series",
+            "categoria": "Móveis para Escritório",
+            "preco": 2199.00,
+            "imagem": "dxracer_racing_series.jpg",
+            "descricao": "Cadeira gamer com design ergonômico, apoio lombar ajustável e almofadas removíveis para conforto prolongado."
+        },
+        {
+            "nome": "Robô Aspirador de Pó iRobot Roomba i7+",
+            "categoria": "Eletrodomésticos Inteligentes",
+            "preco": 4999.00,
+            "imagem": "irobot_roomba_i7_plus.jpg",
+            "descricao": "Robô aspirador com sistema de limpeza automática, mapeamento inteligente e compatibilidade com assistentes virtuais."
+        },
+        {
+            "nome": "Bateria Externa Anker PowerCore 26800mAh",
+            "categoria": "Acessórios de Energia",
+            "preco": 499.90,
+            "imagem": "anker_powercore_26800mah.jpg",
+            "descricao": "Bateria externa de alta capacidade com tecnologia PowerIQ para carregamento rápido de dispositivos móveis."
+        },
+        {
+            "nome": "Monitor Curvo Samsung Odyssey G9",
+            "categoria": "Monitores",
+            "preco": 9999.00,
+            "imagem": "samsung_odyssey_g9.jpg",
+            "descricao": "Monitor gamer ultralargo de 49 polegadas com taxa de atualização de 240Hz, resolução QHD e curvatura 1000R."
+        },
+        {
+            "nome": "Action Cam GoPro Hero 10 Black",
+            "categoria": "Câmeras de Ação",
+            "preco": 3499.00,
+            "imagem": "gopro_hero_10_black.jpg",
+            "descricao": "Câmera de ação com vídeo 5.3K, estabilização avançada e controle por voz, ideal para capturar aventuras."
+        },
+        {
+            "nome": "Caixa de Som Inteligente Amazon Echo Studio",
+            "categoria": "Smart Home",
+            "preco": 1899.00,
+            "imagem": "amazon_echo_studio.jpg",
+            "descricao": "Caixa de som inteligente com áudio de alta fidelidade, compatível com Alexa para controle por voz e ambiente imersivo."
+        }
+    ]
+}
