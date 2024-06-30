@@ -26,7 +26,7 @@ header {
     margin: 0 auto;
 
     background-color: aqua;
-    padding: 1rem;
+    padding: 1.5rem;
 
     display: flex;
     justify-content: space-between;
@@ -53,14 +53,58 @@ main {
     max-width: 1280px;
     margin: 0 auto;
 
-    background-color: rgb(36, 40, 77);
+    background-color: rgb(233, 233, 236);
 }
+
+.s-products {
+    background-color: red;
+    width: 100%;
+}
+
+.container-filter {
+    background-color: #436383;
+    display: flex;
+}
+.filter {
+    display: flex;
+    cursor: pointer;
+    padding: 0.5rem;
+    gap: 0.5rem;
+}
+.filter:hover {
+    background-color: #7896b4;
+}
+
+#arrow-filter {
+    width: 20px;
+    transition: transform 0.2s ease;
+}
+
+.md-filter {
+    width: 200px;
+    height: 100px;
+    background-color: #dee2e6;
+    position: fixed;
+    display: none;
+}
+
+.pagination {
+    width: 100%;
+    background-color: #78b5f1;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    gap: 0.5rem;
+}
+
 
 footer {
     width: 100%;
     max-width: 1280px;
     margin: 0 auto;
-
+    padding: 15px;
+    text-align: center;
     background-color: rgb(158, 163, 163);
 }
 

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .produto {
+            background-color: #e0f7fa;
+            width: 240px;
+            height: 360px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .p-img {
+            width: 240px;
+            height: 240px;
+        }
+
+        .p-desc {
+            display: block; 
+            height: 80px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            padding: 0 0 5px 5px;
+        }
+
+        .p-preco {
+            background-color: #f5f5dc;
+            padding: 5px;
+            font-size: 1.5rem;
+            text-align: start;
+        }
+
+        .p-comprar {
+            background-color: #ff4081;
+            color: white;
+            border: none;
+            padding: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .p-comprar:hover {
+            background-color: #e91e63;
+        }
+    </style>
+</head>
+<body>
+    <div class="produto">
+        <img class="p-img" src="https://images.kabum.com.br/produtos/fotos/471918/-cancelado-monitor-kbm-gaming-mg100-21-45-led-full-hd-100-hz-hdmi-e-vga-ajuste-de-angulo-kgmg10022pt_1709218870_gg.jpg" alt="Nome do Produto">
+        <p class="p-desc">a a a a a a a a a Lorem ipsum dolor sit amet.</p>
+        <span class="p-preco">R$ 0,00</span>
+        <button class="p-comprar">Comprar</button>
+    </div>
+</body>
+</html>
