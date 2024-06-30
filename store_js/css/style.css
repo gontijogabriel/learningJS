@@ -3,10 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: var(--cor-fundo);
 }
 
 :root {
-    --cor-fundo: #ffffff;
+    --cor-fundo: #F6F5F2;
     --cor-texto: #333333;
     --cor-destaque: #007bff;
     --cor-fundo-card: #f8f9fa;
@@ -24,8 +25,6 @@ header {
     width: 100%;
     max-width: 1280px;
     margin: 0 auto;
-
-    background-color: aqua;
     padding: 1.5rem;
 
     display: flex;
@@ -52,17 +51,14 @@ main {
     width: 100%;
     max-width: 1280px;
     margin: 0 auto;
-
-    background-color: rgb(233, 233, 236);
 }
 
 .s-products {
-    background-color: red;
     width: 100%;
 }
 
 .container-filter {
-    background-color: #436383;
+    border-top: 1px solid;
     display: flex;
 }
 .filter {
@@ -72,7 +68,6 @@ main {
     gap: 0.5rem;
 }
 .filter:hover {
-    background-color: #7896b4;
 }
 
 #arrow-filter {
@@ -90,7 +85,6 @@ main {
 
 .pagination {
     width: 100%;
-    background-color: #78b5f1;
     list-style: none;
     display: flex;
     justify-content: center;
@@ -105,7 +99,7 @@ footer {
     margin: 0 auto;
     padding: 15px;
     text-align: center;
-    background-color: rgb(158, 163, 163);
+    border-top: 1px solid;
 }
 
 
